@@ -1,0 +1,208 @@
+Overriding: out_dir = out-shakespeare-char
+Overriding: device = cpu
+Overriding: compile = False
+WARNING: using slow attention. Flash Attention atm needs PyTorch nightly and dropout=0.0
+WARNING: using slow attention. Flash Attention atm needs PyTorch nightly and dropout=0.0
+WARNING: using slow attention. Flash Attention atm needs PyTorch nightly and dropout=0.0
+WARNING: using slow attention. Flash Attention atm needs PyTorch nightly and dropout=0.0
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+MERCANIUS:
+It is be desire flonal man, lord.
+
+Stird:
+As therer in you hir frind to him.
+
+FRIV:
+Which much the may asing bods farself
+To warron and give would and much strown their grors?
+
+Servant:
+Ell becot me are, it to on une, some
+I praint a
+Thousand of Her lifer, misery faint mindrepoved
+Which the orchiop all arm the cenderance and
+Unternce countrit to like a beat beforce.
+
+Provend, weaver you crute, shall endom, are is make
+King Englam weir and heark'd Harged of merceian lord,
+In the parry
+---------------
+
+To full of his blooding and me my prove.
+
+ISABELLA:
+Were them I clade with we was your no go sway.
+
+First Lord Servenger:
+And you knames is thou some of man these couse a to him,
+I'll ma's be. Come well.
+
+Mardon:
+How may and till tyralss; ret pent, that this want
+strable and me, but a great way that I have I weel.
+
+SING HOMBERD:
+He long to slow make it to, as men whose did,
+Serge mall my kinless my here will strue falt.
+
+DUKE OF YORK:
+If is that son offer my done men, and knows,
+The have follow 
+---------------
+
+To lard man, the spreval great I gold thy lame,
+Bothin! in Ere mind be bell, thou suraters me; what neven,
+That in my shall in world in ree hour pardon
+Marther of the morely crutle charp ot to to more
+A snow sake and with she haven him be and their verge
+For her will of death thereYor, and thee life,
+As die you pardon me plack-mistres we marrient;
+That is on that mapst for or come, but a hears,
+Let hell him greem a for a sue preser.
+
+DUCIO:
+I not the are than the jook'ring stay freel in clifest,
+---------------
+
+
+MARCHAST:
+Herefording Warward in to have ignoral
+stand, in a wre the report tlam and the sports of you or wea.
+
+SICINIUS:
+Brarger, be their words herep thee, are are deedger,
+And here lark from and cress be drelitty.
+
+KING LEWIs, resme not kand life the some in sate,
+Go muckending leaven to eyes of exlamena,
+Thee from her some a bloven and blest to be bear thee fair a gen
+To desire awards and cready from titers,
+Where weddience on the king truch beforen destir,
+As Ontellong enem your Clifford c
+---------------
+
+To the is rarent: and by thencess in gone.
+
+KING EDWARD IV:
+I love you to heard thee, not.
+
+QUEEN HAMAST:
+Or save the wear art made say for your sand all to go have
+a found their hast In their jurdered I from of your shirk;
+Now not sire the sheed far a flow, the did of you would and
+Alps on the pardon, she a made of ane that a the
+When till me at your and of aluming to be neat.
+Such Caresons we not; where conderpaint have.
+
+First Of Gentleman: thein have you To war,
+For Mont her blood know!
+
+ROM
+---------------
+
+My lord, fritted the words and from for dost
+I many her poor other here, father your and I sunder of more.
+
+First KING EDWARD IIV:
+Naw, and with he him foulow be pack of where,
+More in us remortue to the florer us of love,
+Is were: but the was of think, but man and onemous
+And wender of preserhop, then is be thee harls?
+
+WARWICK:
+I birld, if the the world be so soverein of him gracess.
+XILCHard I am thee lad as the can everdy
+With he phis is and strongsight to of your do snee.
+
+MENTINIUS:
+No, th
+---------------
+
+Serving of the was a present of Madlarister.
+
+PRINCENTIUS:
+What reput not bid but painty, and to fellow,
+The comes more the is as the forgues a3 things
+And in of sue int him wear waring of the broad,
+But con is crevant the sire as execuse a hall
+But of his the fast of never oNd ever,
+That we tick out the prociess
+As the mopher of this see won the gent them should me,
+And were is my lord me to vice his fame,
+The would come shall with loe for thee prince in of the make,
+The will dreat to is the da
+---------------
+
+And your shall whis you magain.
+
+MENENENIUS:
+What, content marring the from the gracious him heave,
+That have lick moness oun to the spardon poon;
+ProCome, I have would courd the prover of it.
+
+CLARENCE:
+Like my ment:
+Were didgned son the take sperven heer.
+
+Servingman:
+Naw, there, we have made best nee have of yout a me.
+
+QUEEN ELIZABETH:
+I say, that my hound, but I do play enviol,
+To men on of which with should in him king:
+We war, for thou were you was a greation seed.
+
+HENRY BOKEdingt:
+Say l
+---------------
+
+MERCHAM:
+All forth ear yournets and love me?
+
+TBOLY:
+When, you have distrabler be the comes bloods;
+But them I know Angello to a more of your now.
+
+Servoscion:
+The hur alt Clio duke, have since ir for of hem it.
+
+DUKE OF Sheeping of have word bothert.
+
+LADY CALLA:
+Or not go me, where sould not and all,
+It he will shall abot of the marre came life.
+
+Fill thou chard good him stand, And fring they grown.
+
+JULEET:
+No sir, her may gold the prove!
+
+GLIF EDWARD:
+Ay, becal slead for pents.
+
+LUCIO:
+Or ar
+---------------
+
+ROCIUSHARD:
+We in last my grace would heaved be, prove,
+Not This their did the consy fathersafy have me me.
+
+PEY:
+You comented great to sunsed with one.
+
+FRIOLANUS:
+Thes is news me lave more and lord me,
+Wito make a upon teept more prence, and my
+To mile sperceive applaint to conser live,
+As and purpon the hopen heer giving more;
+No be man, I Alpeage me on a long up now,
+How you she resmian, when I say all flortter,
+As I stand to not die patery.
+
+GLOUCESTER:
+I bast thee, some all bloods, and and
+---------------
